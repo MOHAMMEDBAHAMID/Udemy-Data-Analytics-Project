@@ -12,19 +12,25 @@ I used Microsoft Excel, specifically the Power Query Editor, to clean the datase
 ### Data Analysis and Insights:
 
 - **Course Distribution:** Out of 3,676 courses, 3,365 (92%) are paid, while 311 (8%) are free.
+
 ![alt text](<img/Course Distribution.png>)
 
 - **Subject Ratings:** Graphic Design has the highest average rating (0.73), followed by Business Finance (0.69). Musical Instruments has the lowest average rating (0.31).
+
 ![alt text](<img/Subject Ratings.png>)
 
 - **Content Duration:** Web Development courses have the highest average content duration (5.59 minutes), while Musical Instruments have the lowest (2.85 minutes).
+
 ![alt text](<img/Content Duration.png>)
 
 - **Total Revenue:** Web Development generated the highest total revenue of $631,082,465, while Musical Instruments generated the lowest at $53,359,055.
+
 ![alt text](<img/Total Revenue.png>)
 
 - **Revenue:** Revenue steadily grew from $11,643,420 in 2011 to $314,510,395 in 2015. It then slightly declined to $277,694,340 in 2016, followed by a significant drop in 2017, with total revenue of $92,970,175.
+
 ![alt text](<img/Revenue steadily .png>)
 
 - **Dashboard:**
+
 ![alt text](img/Dashboard.png)
